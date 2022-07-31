@@ -1,0 +1,21 @@
+@media (max-width: 620px) {
+  .container {
+    max-width: 350px;
+    margin: 0 auto;
+    font-size: 15px;
+  }
+
+  .imagem {
+    width: 275px;
+    height: 270px;
+  }
+
+  .text {
+    padding: 12px 5px;
+  }
+
+  .text h2 {
+    color: hsl(218, 44%, 22%);
+    padding-bottom: 15px;
+  }
+}
